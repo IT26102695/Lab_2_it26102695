@@ -2,8 +2,8 @@
 int main()
 
 {
-	float Perimeter,length,width;
-	printf("Enter the perimeter\n");
+	    float Perimeter,length,width;
+	    printf("Enter the perimeter\n");
         scanf("%f", &Perimeter);
         length=(2*Perimeter)/7.0f;
         width=(3*Perimeter)/14.0f;
